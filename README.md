@@ -13,7 +13,7 @@ Using types/models will make the code more understadable and easy to detect what
 
 
 # Important notes
-Make sure to add the open weather and geoapify api key
+Make sure to add the open weather and geoapify api key in laravel env
 ```
 OPEN_WEATHER_API_KEY=
 GEO_APIFY_API_KEY=
