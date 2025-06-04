@@ -12,3 +12,9 @@ I've implemented the laravel's service container as this is way more cleaner and
 Using types/models will make the code more understadable and easy to detect what are the fields of the specific resource. Chunking the page sections into component makes your code more readable and maintainable. Separating the api service using composable makes your component cleaner.
 
 
+# Important notes
+Make sure to add the open weather and geoapify api key
+```
+OPEN_WEATHER_API_KEY=
+GEO_APIFY_API_KEY=
+```
